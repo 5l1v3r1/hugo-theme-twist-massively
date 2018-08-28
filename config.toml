@@ -1,0 +1,71 @@
+languageCode = "en-us"
+title = "TWIST"
+baseURL = "http://localhost:1313/"
+theme = "hugo-theme-massively"
+SectionPagesManu ="main"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params.posts]
+    foldername = "post"
+    pagesize = "6"
+    featuredpost= "true"
+
+[params.settings]
+    googleanalytics = "UA-118141496-1"
+    disqus = "hugo-massively"
+    
+[blackfriday]
+  hrefTargetBlank = true
+	
+[params.venue]
+name = "University of Zurich"
+street = "Karl Schmid-Strasse 4"
+room= "Rooms: KO2-F-152 / KO2-F-153"
+roomurl="https://www.bdz.uzh.ch/vd/plan/index.php?option=com_content&view=article&id=11&Itemid=11"
+zipCode = "8006"
+city = "Zürich"
+state = "Zürich"
+country = "Switzerland"
+mapboxPublicToken = "pk.eyJ1Ijoic3RhdGlzdGlremgiLCJhIjoiY2podzBmYnltMDJkdzNxcGh5ODlvbm9hOCJ9.1l4OyU-HbmPy15kZu8fXYA"
+mapboxStyle = "emerald"
+mapboxZoom = 16
+
+[params.venue.coords]
+latitude = 47.3753329
+longitude = 8.5479509
+    
+[menu]
+    [[menu.main]]
+  	name="Home"
+  	identifier="home"
+  	url="/"
+	weight=1
+
+   [[menu.main]]
+  	name="About"
+  	identifier="about"
+  	url="/about/"
+	weight=2
+	
+	[[menu.main]]
+  	name="News"
+  	identifier="news"
+  	url="/post/"
+	weight=3
+	
+	[[menu.main]]
+  	name="Ideas & Resources"
+  	identifier="ideas"
+  	url="/ideas/"
+	weight=4
+	
+	[[menu.main]]
+  	name="Swiss Statistics Meeting"
+  	identifier="sst2018"
+  	url="/sst2018/"
+	weight=5
+	
+
+
+	
+      

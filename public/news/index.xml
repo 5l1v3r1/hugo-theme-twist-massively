@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on TWIST</title>
+    <link>/news/</link>
+    <description>Recent content in News on TWIST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bring insight into public finances</title>
+      <link>/news/public_finances/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/news/public_finances/</guid>
+      <description>How are public services financed? Where does my tax-money go? Which claims around public spending generally considered valid are facts, which are myths? Help us getting sense of public finances, unveil hidden patterns and opening up public financial accounts to a broader public by analyzing and visualizing open data.
+Get your hands on open spending data at the TWIST-Hackdays! Since 1990, the expenditures of Zurich&amp;rsquo;s municipalities have been in step with those of the canton.</description>
+    </item>
+    
+    <item>
+      <title>The «Ideas &amp; Resources» web-page is live!</title>
+      <link>/news/ideas_page_live/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/news/ideas_page_live/</guid>
+      <description>We are currently collecting ideas and compiling a list of exciting data sets to be used at the Twist-Hackdays. There will be no prescribed challenges. We will provide a pool of ideas which will serve as a source of inspiration and a solid starting point for potential Hackday-projects. We do our best to make until yet undisclosed data sources open soon, which could be used for the first time at the TWIST-Hackdays.</description>
+    </item>
+    
+    <item>
+      <title>Three steps from data desert to a thriving data ecosystem</title>
+      <link>/news/three_steps/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/news/three_steps/</guid>
+      <description>Isolated data is information dryland. Data needs to be rooted in its context to blossom and if we want it to thrive, data needs to live in a networked ecosystem.
+First step: Let the data sprout For data to sprout, it has to be available to everyone to access, use and share. At TWIST2018 we work with Open Data. And we want to work with you, to find innovative ways to analyse, visualise and combine data.</description>
+    </item>
+    
+    <item>
+      <title>Crowdsourced open data from «Züri wie neu»</title>
+      <link>/news/zueri_wie_neu/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/news/zueri_wie_neu/</guid>
+      <description>While we strive to publish as many interesting new open data for TWIST as possible, it is worth taking a look at already existing open data. In this post we would like to give you a brief outlook over the crowdsourced open data from the application «Züri wie neu». We think that there are still some hidden, so far undiscovered, truths to be found in it.
+The application and derived open data «Züri wie neu» is an online platform of the Zurich city administration in order to facilitate the reporting of damaged infrastructure by citizens.</description>
+    </item>
+    
+  </channel>
+</rss>

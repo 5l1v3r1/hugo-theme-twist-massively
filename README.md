@@ -35,7 +35,7 @@ The main changes I made to the original massively-theme are:
 3. Customizable location map added (inspired by: [open-network-infrastructure/hugo-hackatheme](https://github.com/open-network-infrastructure/hugo-hackatheme)
 
 
-![](screenshot.PNG)
+![](images/screenshot.PNG)
 
 ## Original Theme Credits
 

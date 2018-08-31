@@ -24,14 +24,13 @@ For the full documentation, please see this section in the **blogdown** book: ht
 
 ## Changes
 
-The main changes I made to the original massively-theme are:
+The main changes made to the original massively-theme are:
 
-1. Introduced the possiblity of generating the navigation menu with config.toml. 
+1. Added the possiblity of generating the navigation menu via 'config.toml'. 
 
-2. Changes to the css & templates --> introduced a logo-container on the main page. 
+2. Changes to the css & templates (introduced a logo-container on the main page, colors & opacity of various elements altered)
 
 3. Customizable location map added (inspired by: [open-network-infrastructure/hugo-hackatheme](https://github.com/open-network-infrastructure/hugo-hackatheme)
-
 
 ![](images/screenshot.PNG)
 

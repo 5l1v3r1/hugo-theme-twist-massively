@@ -1,4 +1,4 @@
-# Hugo Theme Twist
+# Hugo Theme Twist-Massively
 
 This repository contains the [Hugo](https://gohugo.io/)-Theme created for the TWIST-Hackdays, it is an adapted version of the [massively theme](https://github.com/curttimson/hugo-theme-massively) for events.
 

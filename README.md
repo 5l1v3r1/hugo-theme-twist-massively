@@ -20,8 +20,6 @@ For the full documentation, please see this section in the **blogdown** book: ht
 - Disqus
 - Google Analytics
 - Google web fonts (Merriweather and Lato)
-- MathJax
-- highlight.js
 - Location map (via MapBox)
 
 ## Changes
